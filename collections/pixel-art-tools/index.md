@@ -13,7 +13,7 @@ items:
  - LibreSprite/LibreSprite
  - lospec/pixel-editor
  - rgab1508/PixelCraft
- - PixiEditor/PixiEditor
+ - PixiEditor/PixiEditorpkiujiuihubbbbbbbbbbbbbbbbbbbunj
  - Kully/pixel-paint
  - pulkomandy/grafx2/
  - pixa-pics/pixa-pics.github.io
